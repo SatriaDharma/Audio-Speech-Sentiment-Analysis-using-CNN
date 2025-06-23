@@ -1,6 +1,6 @@
 # 🎧 Audio Speech Sentiment Analysis
 
-Proyek ini merupakan implementasi sistem klasifikasi sentimen berbasis audio ucapan (speech) menggunakan Convolutional Neural Network (CNN). Proyek ini dibuat untuk penyelesaian Tugas Kelompok 2 Mata Kuliah Pengantar Pemrosesan Data Multimedia Program Studi Informatika Udayana tahun 2023.
+Proyek ini merupakan implementasi sistem klasifikasi sentimen berbasis audio ucapan (speech) menggunakan Convolutional Neural Network (CNN). Proyek ini dibuat untuk penyelesaian Tugas Kelompok 2 Mata Kuliah Pengantar Pemrosesan Data Multimedia Program Studi Informatika Udayana tahun 2025.
 
 Sistem menerima input berupa file audio format `.wav`, mengekstrak fitur secara manual (MFCC, ZCR, Spectral Centroid), kemudian memprediksi sentimen: **Positive**, **Neutral**, atau **Negative**. Aplikasi juga menyediakan antarmuka interaktif berbasis Streamlit.
 
@@ -33,17 +33,17 @@ Sistem menerima input berupa file audio format `.wav`, mengekstrak fitur secara 
 
 ---
 
-## 👥 Tim Pengembang
-Kelompok C4 - Informatika Udayana 2023:
+## 👥 Tim Pengembang  
+Kelompok C4 - Informatika Udayana Angkatan 2023:
 
-I Putu Satria Dharma Wibawa (2308561045)
-[🔗 SatriaDharma](github.com/SatriaDharma)
+- I Putu Satria Dharma Wibawa (2308561045)  
+  [🔗 Satria Dharma](https://github.com/SatriaDharma)
 
-I Putu Andika Arsana Putra (2308561063)
-[🔗 Andika Arsana](github.com/AndikaAP31)
+- I Putu Andika Arsana Putra (2308561063)  
+  [🔗 Andika Arsana](https://github.com/AndikaAP31)
 
-Christian Valentino (2308561081)
-[🔗 Christian Valentino](github.com/kriznoob)
+- Christian Valentino (2308561081)  
+  [🔗 Christian Valentino](https://github.com/kriznoob)
 
-Anak Agung Gede Angga Putra Wibawa (2308561099)
-[🔗 Angga Wibawa](github.com/anggawww05)
+- Anak Agung Gede Angga Putra Wibawa (2308561099)  
+  [🔗 Angga Wibawa](https://github.com/anggawww05)
