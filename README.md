@@ -56,8 +56,10 @@ Sistem menerima input berupa file audio format `.wav`, mengekstrak fitur secara 
 1. Pastikan Python dan library yang dibutuhkan telah terpasang.
 2. Jalankan model training atau gunakan model yang sudah disediakan di folder `model_artifacts/`.
 3. Jalankan aplikasi Streamlit: streamlit run app.py
-   
-👥 Tim Pengembang
+
+---
+
+## 👥 Tim Pengembang
 Kelompok C4 - Informatika Udayana 2023:
 
 I Putu Satria Dharma Wibawa (2308561045)
