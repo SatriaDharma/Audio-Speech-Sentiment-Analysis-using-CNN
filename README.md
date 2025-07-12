@@ -8,13 +8,15 @@ Sistem menerima input berupa file audio format `.wav`, mengekstrak fitur secara 
 
 ## 🔧 Teknologi yang Digunakan
 
-- Python 3.10+
-- TensorFlow / Keras
-- NumPy
-- Scikit-learn
-- Streamlit
-- Matplotlib
+- OS
+- Pickle
 - Librosa
+- NumPy
+- Soundfile
+- Matplotlib
+- Seaborn
+- Sklearn
+- Tensorflow / Keras
 
 ---
 
